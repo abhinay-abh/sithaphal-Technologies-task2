@@ -136,5 +136,4 @@ Acknowledgments
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing.
 - [Requests](https://docs.python-requests.org/) for HTTP requests.
 
-For any questions or contributions, feel free to reach out!
 
