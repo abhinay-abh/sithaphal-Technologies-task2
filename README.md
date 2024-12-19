@@ -115,14 +115,6 @@ else:
  Step 3: Response Generation
 This script provides the raw matching content. You can integrate it with an LLM like OpenAI's GPT for advanced response generation.
 
- File Structure
-```
-.
-|-- scrape_data.py           # Script for scraping website data
-|-- query_handler.py         # Script for handling user queries
-|-- requirements.txt         # List of required Python libraries
-|-- README.md                # Project documentation
-```
 
  Future Enhancements
 - Add vector database support for efficient retrieval.
